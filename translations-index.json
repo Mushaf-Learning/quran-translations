@@ -1,0 +1,822 @@
+{
+  "source": "tanzil.net",
+  "source_url": "https://tanzil.net/trans/",
+  "last_updated": "2026-02-22",
+  "total_translations": 115,
+  "total_languages": 44,
+  "priority_translations": [
+    "en.sahih",
+    "en.yusufali",
+    "en.pickthall",
+    "ur.jalandhry",
+    "fr.hamidullah",
+    "tr.diyanet"
+  ],
+  "translations": [
+    {
+      "identifier": "sq.nahi",
+      "language": "sq",
+      "language_name": "Albanian",
+      "translator": "Hasan Efendi Nahi",
+      "available": false
+    },
+    {
+      "identifier": "sq.mehdiu",
+      "language": "sq",
+      "language_name": "Albanian",
+      "translator": "Feti Mehdiu",
+      "available": false
+    },
+    {
+      "identifier": "sq.ahmeti",
+      "language": "sq",
+      "language_name": "Albanian",
+      "translator": "Sherif Ahmeti",
+      "available": false
+    },
+    {
+      "identifier": "ber.mensur",
+      "language": "ber",
+      "language_name": "Amazigh",
+      "translator": "Ramdane At Mansour",
+      "available": false
+    },
+    {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "language_name": "Amharic",
+      "translator": "Muhammed Sadiq and Muhammed Sani Habib",
+      "available": false
+    },
+    {
+      "identifier": "ar.jalalayn",
+      "language": "ar",
+      "language_name": "Arabic",
+      "translator": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti (Jalalayn)",
+      "available": false
+    },
+    {
+      "identifier": "ar.muyassar",
+      "language": "ar",
+      "language_name": "Arabic",
+      "translator": "King Fahad Quran Complex (Muyassar)",
+      "available": false
+    },
+    {
+      "identifier": "az.mammadaliyev",
+      "language": "az",
+      "language_name": "Azerbaijani",
+      "translator": "Vasim Mammadaliyev and Ziya Bunyadov",
+      "available": false
+    },
+    {
+      "identifier": "az.musayev",
+      "language": "az",
+      "language_name": "Azerbaijani",
+      "translator": "Alikhan Musayev",
+      "available": false
+    },
+    {
+      "identifier": "bn.bengali",
+      "language": "bn",
+      "language_name": "Bengali",
+      "translator": "Muhiuddin Khan",
+      "available": false
+    },
+    {
+      "identifier": "bn.hoque",
+      "language": "bn",
+      "language_name": "Bengali",
+      "translator": "Zohurul Hoque",
+      "available": false
+    },
+    {
+      "identifier": "bs.korkut",
+      "language": "bs",
+      "language_name": "Bosnian",
+      "translator": "Besim Korkut",
+      "available": false
+    },
+    {
+      "identifier": "bs.mlivo",
+      "language": "bs",
+      "language_name": "Bosnian",
+      "translator": "Mustafa Mlivo",
+      "available": false
+    },
+    {
+      "identifier": "bg.theophanov",
+      "language": "bg",
+      "language_name": "Bulgarian",
+      "translator": "Tzvetan Theophanov",
+      "available": false
+    },
+    {
+      "identifier": "zh.jian",
+      "language": "zh",
+      "language_name": "Chinese",
+      "translator": "Ma Jian (Simplified)",
+      "available": false
+    },
+    {
+      "identifier": "zh.majian",
+      "language": "zh",
+      "language_name": "Chinese",
+      "translator": "Ma Jian (Traditional)",
+      "available": false
+    },
+    {
+      "identifier": "cs.hrbek",
+      "language": "cs",
+      "language_name": "Czech",
+      "translator": "I. Hrbek",
+      "available": false
+    },
+    {
+      "identifier": "cs.nykl",
+      "language": "cs",
+      "language_name": "Czech",
+      "translator": "A. R. Nykl",
+      "available": false
+    },
+    {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "language_name": "Divehi",
+      "translator": "Office of the President of Maldives",
+      "available": false
+    },
+    {
+      "identifier": "nl.keyzer",
+      "language": "nl",
+      "language_name": "Dutch",
+      "translator": "Salomo Keyzer",
+      "available": false
+    },
+    {
+      "identifier": "nl.leemhuis",
+      "language": "nl",
+      "language_name": "Dutch",
+      "translator": "Fred Leemhuis",
+      "available": false
+    },
+    {
+      "identifier": "nl.siregar",
+      "language": "nl",
+      "language_name": "Dutch",
+      "translator": "Sofian S. Siregar",
+      "available": false
+    },
+    {
+      "identifier": "en.ahmedali",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Ahmed Ali",
+      "available": false
+    },
+    {
+      "identifier": "en.ahmedraza",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Ahmed Raza Khan",
+      "available": false
+    },
+    {
+      "identifier": "en.arberry",
+      "language": "en",
+      "language_name": "English",
+      "translator": "A. J. Arberry",
+      "available": false
+    },
+    {
+      "identifier": "en.daryabadi",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Abdul Majid Daryabadi",
+      "available": false
+    },
+    {
+      "identifier": "en.hilali",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
+      "available": false
+    },
+    {
+      "identifier": "en.itani",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Talal Itani",
+      "available": false
+    },
+    {
+      "identifier": "en.maududi",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Abul Ala Maududi",
+      "available": false
+    },
+    {
+      "identifier": "en.mubarakpuri",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Safi-ur-Rahman al-Mubarakpuri",
+      "available": false
+    },
+    {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Mohammed Marmaduke William Pickthall",
+      "available": false
+    },
+    {
+      "identifier": "en.qarai",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Ali Quli Qarai",
+      "available": false
+    },
+    {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "available": false
+    },
+    {
+      "identifier": "en.sahih",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Sahih International",
+      "available": false
+    },
+    {
+      "identifier": "en.sarwar",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Muhammad Sarwar",
+      "available": false
+    },
+    {
+      "identifier": "en.shakir",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Mohammad Habib Shakir",
+      "available": false
+    },
+    {
+      "identifier": "en.transliteration",
+      "language": "en",
+      "language_name": "English",
+      "translator": "English Transliteration",
+      "available": false
+    },
+    {
+      "identifier": "en.wahiduddin",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Wahiduddin Khan",
+      "available": false
+    },
+    {
+      "identifier": "en.yusufali",
+      "language": "en",
+      "language_name": "English",
+      "translator": "Abdullah Yusuf Ali",
+      "available": false
+    },
+    {
+      "identifier": "fr.hamidullah",
+      "language": "fr",
+      "language_name": "French",
+      "translator": "Muhammad Hamidullah",
+      "available": false
+    },
+    {
+      "identifier": "de.aburida",
+      "language": "de",
+      "language_name": "German",
+      "translator": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "available": false
+    },
+    {
+      "identifier": "de.bubenheim",
+      "language": "de",
+      "language_name": "German",
+      "translator": "A. S. F. Bubenheim and N. Elyas",
+      "available": false
+    },
+    {
+      "identifier": "de.khoury",
+      "language": "de",
+      "language_name": "German",
+      "translator": "Adel Theodor Khoury",
+      "available": false
+    },
+    {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "language_name": "German",
+      "translator": "Amir Zaidan",
+      "available": false
+    },
+    {
+      "identifier": "ha.gumi",
+      "language": "ha",
+      "language_name": "Hausa",
+      "translator": "Abubakar Mahmoud Gumi",
+      "available": false
+    },
+    {
+      "identifier": "hi.farooq",
+      "language": "hi",
+      "language_name": "Hindi",
+      "translator": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "available": false
+    },
+    {
+      "identifier": "hi.hindi",
+      "language": "hi",
+      "language_name": "Hindi",
+      "translator": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+      "available": false
+    },
+    {
+      "identifier": "id.indonesian",
+      "language": "id",
+      "language_name": "Indonesian",
+      "translator": "Indonesian Ministry of Religious Affairs",
+      "available": false
+    },
+    {
+      "identifier": "id.muntakhab",
+      "language": "id",
+      "language_name": "Indonesian",
+      "translator": "Muhammad Quraish Shihab et al.",
+      "available": false
+    },
+    {
+      "identifier": "id.jalalayn",
+      "language": "id",
+      "language_name": "Indonesian",
+      "translator": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+      "available": false
+    },
+    {
+      "identifier": "it.piccardo",
+      "language": "it",
+      "language_name": "Italian",
+      "translator": "Hamza Roberto Piccardo",
+      "available": false
+    },
+    {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "language_name": "Japanese",
+      "translator": "Unknown",
+      "available": false
+    },
+    {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "language_name": "Korean",
+      "translator": "Unknown",
+      "available": false
+    },
+    {
+      "identifier": "ku.asan",
+      "language": "ku",
+      "language_name": "Kurdish",
+      "translator": "Burhan Muhammad-Amin",
+      "available": false
+    },
+    {
+      "identifier": "ms.basmeih",
+      "language": "ms",
+      "language_name": "Malay",
+      "translator": "Abdullah Muhammad Basmeih",
+      "available": false
+    },
+    {
+      "identifier": "ml.abdulhameed",
+      "language": "ml",
+      "language_name": "Malayalam",
+      "translator": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "available": false
+    },
+    {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "language_name": "Malayalam",
+      "translator": "Muhammad Karakunnu and Vanidas Elayavoor",
+      "available": false
+    },
+    {
+      "identifier": "no.berg",
+      "language": "no",
+      "language_name": "Norwegian",
+      "translator": "Einar Berg",
+      "available": false
+    },
+    {
+      "identifier": "ps.abdulwali",
+      "language": "ps",
+      "language_name": "Pashto",
+      "translator": "Abdulwali Khan",
+      "available": false
+    },
+    {
+      "identifier": "fa.ansarian",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Hussain Ansarian",
+      "available": false
+    },
+    {
+      "identifier": "fa.ayati",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "AbdolMohammad Ayati",
+      "available": false
+    },
+    {
+      "identifier": "fa.bahrampour",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Abolfazl Bahrampour",
+      "available": false
+    },
+    {
+      "identifier": "fa.gharaati",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Mohsen Gharaati",
+      "available": false
+    },
+    {
+      "identifier": "fa.ghomshei",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Mahdi Elahi Ghomshei",
+      "available": false
+    },
+    {
+      "identifier": "fa.khorramdel",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Mostafa Khorramdel",
+      "available": false
+    },
+    {
+      "identifier": "fa.khorramshahi",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Baha'oddin Khorramshahi",
+      "available": false
+    },
+    {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Mohammad Sadeqi Tehrani",
+      "available": false
+    },
+    {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Sayyed Mohammad Reza Safavi",
+      "available": false
+    },
+    {
+      "identifier": "fa.fooladvand",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Mohammad Mahdi Fooladvand",
+      "available": false
+    },
+    {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Sayyed Jalaloddin Mojtabavi",
+      "available": false
+    },
+    {
+      "identifier": "fa.moezzi",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Mohammad Kazem Moezzi",
+      "available": false
+    },
+    {
+      "identifier": "fa.makarem",
+      "language": "fa",
+      "language_name": "Persian",
+      "translator": "Naser Makarem Shirazi",
+      "available": false
+    },
+    {
+      "identifier": "pl.bielawskiego",
+      "language": "pl",
+      "language_name": "Polish",
+      "translator": "Jozefa Bielawskiego",
+      "available": false
+    },
+    {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "translator": "Samir El-Hayek",
+      "available": false
+    },
+    {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "language_name": "Romanian",
+      "translator": "George Grigore",
+      "available": false
+    },
+    {
+      "identifier": "ru.abuadel",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Abu Adel",
+      "available": false
+    },
+    {
+      "identifier": "ru.muntahab",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Ministry of Awqaf, Egypt",
+      "available": false
+    },
+    {
+      "identifier": "ru.kalam",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Muslim Religious Board of Tatarstan",
+      "available": false
+    },
+    {
+      "identifier": "ru.krachkovsky",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Ignaty Yulianovich Krachkovsky",
+      "available": false
+    },
+    {
+      "identifier": "ru.kuliev",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Elmir Kuliev",
+      "available": false
+    },
+    {
+      "identifier": "ru.kuliev-alsaadi",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Elmir Kuliev with Abd ar-Rahman as-Saadi commentaries",
+      "available": false
+    },
+    {
+      "identifier": "ru.osmanov",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Magomed-Nuri Osmanov",
+      "available": false
+    },
+    {
+      "identifier": "ru.porokhova",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "V. Porokhova",
+      "available": false
+    },
+    {
+      "identifier": "ru.sablukov",
+      "language": "ru",
+      "language_name": "Russian",
+      "translator": "Gordy Semyonovich Sablukov",
+      "available": false
+    },
+    {
+      "identifier": "sd.amroti",
+      "language": "sd",
+      "language_name": "Sindhi",
+      "translator": "Taj Mehmood Amroti",
+      "available": false
+    },
+    {
+      "identifier": "so.abduh",
+      "language": "so",
+      "language_name": "Somali",
+      "translator": "Mahmud Muhammad Abduh",
+      "available": false
+    },
+    {
+      "identifier": "es.bornez",
+      "language": "es",
+      "language_name": "Spanish",
+      "translator": "Raul Gonzalez Bornez",
+      "available": false
+    },
+    {
+      "identifier": "es.cortes",
+      "language": "es",
+      "language_name": "Spanish",
+      "translator": "Julio Cortes",
+      "available": false
+    },
+    {
+      "identifier": "es.garcia",
+      "language": "es",
+      "language_name": "Spanish",
+      "translator": "Muhammad Isa Garcia",
+      "available": false
+    },
+    {
+      "identifier": "sw.barwani",
+      "language": "sw",
+      "language_name": "Swahili",
+      "translator": "Ali Muhsin Al-Barwani",
+      "available": false
+    },
+    {
+      "identifier": "sv.bernstrom",
+      "language": "sv",
+      "language_name": "Swedish",
+      "translator": "Knut Bernstrom",
+      "available": false
+    },
+    {
+      "identifier": "tg.ayati",
+      "language": "tg",
+      "language_name": "Tajik",
+      "translator": "AbdolMohammad Ayati",
+      "available": false
+    },
+    {
+      "identifier": "ta.tamil",
+      "language": "ta",
+      "language_name": "Tamil",
+      "translator": "Jan Turst Foundation",
+      "available": false
+    },
+    {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "language_name": "Tatar",
+      "translator": "Yakub Ibn Nugman",
+      "available": false
+    },
+    {
+      "identifier": "th.thai",
+      "language": "th",
+      "language_name": "Thai",
+      "translator": "King Fahad Quran Complex",
+      "available": false
+    },
+    {
+      "identifier": "tr.ates",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Suleyman Ates",
+      "available": false
+    },
+    {
+      "identifier": "tr.bulac",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Ali Bulac",
+      "available": false
+    },
+    {
+      "identifier": "tr.diyanet",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Diyanet Isleri",
+      "available": false
+    },
+    {
+      "identifier": "tr.golpinarli",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Abdulbaki Golpinarli",
+      "available": false
+    },
+    {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Yasar Nuri Ozturk",
+      "available": false
+    },
+    {
+      "identifier": "tr.transliteration",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Muhammet Abay (Transliteration)",
+      "available": false
+    },
+    {
+      "identifier": "tr.vakfi",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Diyanet Vakfi",
+      "available": false
+    },
+    {
+      "identifier": "tr.yazir",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Elmalili Hamdi Yazir",
+      "available": false
+    },
+    {
+      "identifier": "tr.yildirim",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Suat Yildirim",
+      "available": false
+    },
+    {
+      "identifier": "tr.yuksel",
+      "language": "tr",
+      "language_name": "Turkish",
+      "translator": "Edip Yuksel",
+      "available": false
+    },
+    {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "language_name": "Uyghur",
+      "translator": "Muhammad Saleh",
+      "available": false
+    },
+    {
+      "identifier": "ur.ahmedali",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Ahmed Ali",
+      "available": false
+    },
+    {
+      "identifier": "ur.jalandhry",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Fateh Muhammad Jalandhry",
+      "available": false
+    },
+    {
+      "identifier": "ur.jawadi",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Syed Zeeshan Haider Jawadi",
+      "available": false
+    },
+    {
+      "identifier": "ur.junagarhi",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Muhammad Junagarhi",
+      "available": false
+    },
+    {
+      "identifier": "ur.kanzuliman",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Ahmed Raza Khan (Kanz ul Iman)",
+      "available": false
+    },
+    {
+      "identifier": "ur.maududi",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Abul Ala Maududi",
+      "available": false
+    },
+    {
+      "identifier": "ur.najafi",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Muhammad Hussain Najafi",
+      "available": false
+    },
+    {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "language_name": "Urdu",
+      "translator": "Tahir ul Qadri",
+      "available": false
+    },
+    {
+      "identifier": "uz.sodik",
+      "language": "uz",
+      "language_name": "Uzbek",
+      "translator": "Muhammad Sodik Muhammad Yusuf",
+      "available": false
+    }
+  ]
+}
