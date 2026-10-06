@@ -1,4 +1,18 @@
-MIT License
+Scope of this licence
+=====================
+
+The MIT licence below covers ONLY the code and tooling in this repository
+(the scripts/ directory and the repository's own structure and index
+metadata). It does NOT cover the Quran translation texts in by-language/,
+by-translator/ and formats/. Those texts belong to their translators and
+publishers. They were obtained from Tanzil.net, whose terms
+(https://tanzil.net/trans/) are: "The translations provided at this page are
+for non-commercial purposes only. If used otherwise, you need to obtain
+necessary permission from the translator or the publisher." See README.md
+("Licence") for the terms of each source.
+
+MIT License (code only)
+=======================
 
 Copyright (c) 2026 Mushaf-Learning
 
